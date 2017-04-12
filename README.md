@@ -40,14 +40,20 @@ to take motivation from the mentioned literatures and design a serving layer for
 models, on top of Apache Flink.
 
 [1] Apache Flink, Accessed on 28/12/2016, https://flink.apache.org
+
 [2] P. Carbone, A. Katsifodimos, S. Ewen, V. Markl, S. Haridi, and K. Tzoumas, Apache flink: Stream and batch processing in
 a single engine, Data Engineering, p. 28, 2015.
+
 [3] Apache FlinkML, Accessed on 28/12/2016, https://ci.apache.org/projects/flink/flink-docs-release-1.2/dev/libs/ml
+
 [4] D. Crankshaw, P. Bailis, J. E. Gonzalez, H. Li, Z. Zhang, M. J. Franklin, A. Ghodsi, and M. I. Jordan. The missing piece in
 complex analytics: Low latency, scalable model management and serving with velox. In Conference on Innovative Data
 Systems Research (CIDR), 2015.
+
 [5] M. Li, D. G. Andersen, J. W. Park, A. Ahmed, V. Josifovski, J. Long, E. J. Shekita, and B.-Y. Su. Scaling distributed machine
 learning with the parameter server. In OSDI, pages 583–598, 2014.
+
 [6] Add Support for Queryable state, Accessed on 28/12/2016, https://issues.apache.org/jira/browse/FLINK-3779
+
 [7] Apache Flink Release and Feature Plan, Accessed on 28/12/2016
 https://cwiki.apache.org/confluence/display/FLINK/Flink+Release+and+Feature+Plan
